@@ -2,6 +2,7 @@
 ## Group Members: Hengrui Xie, Yinzhe Ma
 
 1. Results are shown below
+
 |        Graph file       |           MIS file           | Is an MIS? |
 | ----------------------- | ---------------------------- | ---------- |
 | small_edges.csv         | small_edges_MIS.csv          | Yes        |
@@ -12,6 +13,7 @@
 | twitter_10000_edges.csv | twitter_10000_MIS_test_2.csv | Yes        |
 
 2. Informaiton required are shown below and MIS result files are in the result folder above.
+
 |        Graph file       |           # of Iterations    | Run Time   |
 | ----------------------- | ---------------------------- | ---------- |
 | small_edges.csv         |            3                 |    4s      |
@@ -19,6 +21,7 @@
 | twitter_100_edges.csv   |            5                 |    5s      |
 | twitter_1000_edges.csv  |            21                |    12s     |
 | twitter_10000_edges.csv |                              |            |
+
 
 3. **(3 points)**  
 a. Run `LubyMIS` on `twitter_original_edges.csv` in GCP with 3x4 cores. Report the number of iterations, running time, and remaining active vertices (i.e. vertices whose status has yet to be determined) at the end of **each iteration**. You may need to include additional print statements in `LubyMIS` in order to acquire this information. Finally, verify your outputs with `verifyMIS`.  
