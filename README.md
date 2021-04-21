@@ -14,13 +14,13 @@
 
 2. Informaiton required are shown below and MIS result files are in the result folder above.
 
-|        Graph file       |           # of Iterations    | Run Time   |
-| ----------------------- | ---------------------------- | ---------- |
-| small_edges.csv         |            1                 |    1s      |
-| line_100_edges.csv      |            4                 |    2s      |
-| twitter_100_edges.csv   |            8                 |    3s      |
-| twitter_1000_edges.csv  |            10                |    4s      |
-| twitter_10000_edges.csv |            13                |    13s     |
+|        Graph file       |           # of Iterations    | Run Time   | Verified |
+| ----------------------- | ---------------------------- | ---------- |----------|
+| small_edges.csv         |            1                 |    1s      |   Yes    |
+| line_100_edges.csv      |            4                 |    2s      |   Yes    |
+| twitter_100_edges.csv   |            8                 |    3s      |   Yes    |
+| twitter_1000_edges.csv  |            10                |    4s      |   Yes    |
+| twitter_10000_edges.csv |            13                |    13s     |   Yes    |
 
 
 3. **(3 points)**  
