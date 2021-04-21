@@ -16,11 +16,11 @@
 
 |        Graph file       |           # of Iterations    | Run Time   |
 | ----------------------- | ---------------------------- | ---------- |
-| small_edges.csv         |            3                 |    4s      |
-| line_100_edges.csv      |            5                 |    4s      |
-| twitter_100_edges.csv   |            5                 |    5s      |
-| twitter_1000_edges.csv  |            21                |    12s     |
-| twitter_10000_edges.csv |                              |            |
+| small_edges.csv         |            1                 |    1s      |
+| line_100_edges.csv      |            4                 |    2s      |
+| twitter_100_edges.csv   |            8                 |    3s      |
+| twitter_1000_edges.csv  |            10                |    4s      |
+| twitter_10000_edges.csv |            13                |    13s     |
 
 
 3. **(3 points)**  
